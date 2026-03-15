@@ -46,7 +46,9 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-
+![image](S.png)
+![image](R.png)
+![image](V.png)
 ### Name:S.SRIGANESH
 ### Register Number:212225220102
 
